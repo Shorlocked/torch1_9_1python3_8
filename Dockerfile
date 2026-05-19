@@ -1,4 +1,4 @@
-FROM docker.m.daocloud.io/docker.io/pytorch/pytorch:1.9.1-cuda11.1-cudnn8-devel
+FROM docker.1panel.live/pytorch/pytorch:1.9.1-cuda11.1-cudnn8-devel
 
 WORKDIR /workspace
 
